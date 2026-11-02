@@ -48,6 +48,7 @@ This dashboard helps businesses:
 - Make informed business decisions using interactive visualizations.
 
 📷 Dashboard Preview
+https://github.com/AkashAnalytix/Hyperstore-sales-dashboard/blob/main/hyperstore%20sales%20report.png
 
 "Hyper Store Sales Dashboard" (dashboard.png)
 
